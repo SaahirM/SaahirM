@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SaahirM
+- 📚 I’m a Computer Science student at Dalhousie University
+- 💻 Learning to master programming
+- ☕ Primarily use Java
+- 🐍 Python's a close runner-up
+- 🌐 HTML, CSS and JavScript are cool too
