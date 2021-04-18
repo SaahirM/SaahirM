@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaahirM
+- 👋 Hello, I’m @SaahirM
 - 📚 I’m a Computer Science student at Dalhousie University
 - 💻 Learning to master programming
 - ☕ Primarily use Java
