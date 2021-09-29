@@ -3,4 +3,4 @@
 - 💻 Learning to master programming
 - ☕ Primarily use Java
 - 🐍 Python's a close runner-up
-- 🌐 HTML, CSS and JavScript are cool too
+- 🌐 HTML, CSS and JavaScript are cool too
